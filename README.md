@@ -4,7 +4,7 @@ Add this bot into your server and manage your work with simple commands!
 
 # Environment
 '''
-Python3.9
-MySQL
-Django
+- Python3.9
+- MySQL
+- Django
 '''
